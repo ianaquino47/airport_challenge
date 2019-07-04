@@ -22,5 +22,3 @@ class AirPlane
     @inair = true
   end
 end
-
-test
